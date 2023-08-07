@@ -2,8 +2,8 @@
   "pluginAlias": "webostv",
   "pluginType": "platform",
   "singular": true,
-  "headerDisplay": "Homebridge plugin for LG webOS TVs. The TV must be [added manually](https://github.com/merdok/homebridge-webos-tv#adding-the-tv-to-the-home-app) in the Home app.",
-  "footerDisplay": "For a detailed description, see the [README](https://github.com/merdok/homebridge-webos-tv#parameters).",
+  "headerDisplay": "Homebridge plugin for LG webOS TVs. The TV must be [added manually](https://github.com/su-thomas/homebridge-webos-tv#adding-the-tv-to-the-home-app) in the Home app.",
+  "footerDisplay": "For a detailed description, see the [README](https://github.com/su-thomas/homebridge-webos-tv#parameters).",
   "schema": {
     "type": "object",
     "properties": {

@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-webos-tv",
+  "name": "@su-thomas/homebridge-webos-tv",
   "displayName": "webOS TV",
   "version": "2.4.1",
   "description": "Homebridge plugin for LG webOS TVs",
@@ -41,12 +41,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/merdok/homebridge-webos-tv.git"
+    "url": "https://github.com/su-thomas/homebridge-webos-tv.git"
   },
   "bugs": {
-    "url": "https://github.com/merdok/homebridge-webos-tv/issues"
+    "url": "https://github.com/su-thomas/homebridge-webos-tv/issues"
   },
-  "homepage": "https://github.com/merdok/homebridge-webos-tv#readme",
+  "homepage": "https://github.com/su-thomas/homebridge-webos-tv#readme",
   "bin": {
     "webostv": "./cli/index.js"
   }
